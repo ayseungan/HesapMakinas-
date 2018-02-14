@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+main()
+{
+	float toplam =0;
+	float carpim = 0;
+	float bolum =0;
+	float cikarma = 0;
+	float sayi1 , sayi2;
+}
