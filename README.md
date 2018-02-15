@@ -25,3 +25,18 @@ printf("%f",cikarma);
 
 
 }
+#include <stdio.h> 
+#include <math.h> 
+void cikarma(float sayi1 , float sayi2);
+ main() 
+ { 
+ float sayi1=3.0; float sayi2=5.0;
+  cikarma(sayi1 , sayi2);
+
+}
+
+void cikarma(float sayi1 ,float sayi2) 
+{ 
+float cikarma=0.0;
+ cikarma = sayi1-sayi2; printf("%f",cikarma); 
+ }
